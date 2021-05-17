@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Y20",
+            "image": "./IMG/Y20.png",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "I-PHONE XR",
+            "image": "./IMG/XR.webp",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Redmi 9",
+            "image": "./IMG/redmi9.png",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Samsung A52",
+            "image": "./IMG/a52.png",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Samsung A12",
+            "image": "./IMG/a12.jpg ",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Samsung F42",
+            "image": "./IMG/f42.webp",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "NOTE20 ULTRA",
+            "image": "./IMG/note20ultra.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "VIVO Y31",
+            "image": "./IMG/y31.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "VIVO V20SE",
+            "image": "../IMG/v20se.png",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "VIVO Y50",
+            "image": "./IMG/y50.png",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "OPPO 52",
+            "image": "/IMG/oppo-a54.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone5.jpeg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone8.jpeg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung6.jpeg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung5.jpeg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone1.jpeg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone9.jpeg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung4.jpeg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone10.jpeg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone1.jpeg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung2.jpeg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone11.jpeg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung1.jpeg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung3.jpeg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone12.jpeg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
